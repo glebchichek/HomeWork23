@@ -13,5 +13,5 @@ int main() {
 
     l1.Print();
 
-    cout << "Laptops created: " << Laptop::GetCount() << "\n\n";
+    cout << "Laptops created: " << Laptop::GetCount() << "\n\n"; 
 }
